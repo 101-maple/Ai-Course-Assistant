@@ -12,7 +12,7 @@ College students who wants to study and organize their materials more effectivel
 
 ## Core Features
 
-- Uploading course materials in the form of PDF
+- Uploading course materials as PDFs
 - Extract text from PDF
 - Generating summaries
 - Generating quiz questions
@@ -35,10 +35,24 @@ Next version will support:
 - AI:
 - Development:
 
-## 7-Day Goals
+## Next Goal
 
 Build a demo where user can upload a PDF file.
 
 ## Project status
 
-Not started
+In progress
+
+## Develop Roadmap
+
+### Phase 1
+- [x] Initialize the Readme.
+
+### Phase 2
+- [ ] Create frontend project
+- [ ] Create backend project
+- [ ] Setup the folder structure
+
+### Phase 3
+- [ ] Build PDF upload UI
+- [ ] Test local file upload
